@@ -1,0 +1,9 @@
+C:\Users\Echo\OneDrive\Hakan Csharp\20170812-2Win_Metotlar\20170812-2Win_Metotlar\bin\Debug\20170812-2Win_Metotlar.exe.config
+C:\Users\Echo\OneDrive\Hakan Csharp\20170812-2Win_Metotlar\20170812-2Win_Metotlar\obj\Debug\20170812-2Win_Metotlar.csprojResolveAssemblyReference.cache
+C:\Users\Echo\OneDrive\Hakan Csharp\20170812-2Win_Metotlar\20170812-2Win_Metotlar\obj\Debug\_20170812_2Win_Metotlar.Form1.resources
+C:\Users\Echo\OneDrive\Hakan Csharp\20170812-2Win_Metotlar\20170812-2Win_Metotlar\obj\Debug\_20170812_2Win_Metotlar.Properties.Resources.resources
+C:\Users\Echo\OneDrive\Hakan Csharp\20170812-2Win_Metotlar\20170812-2Win_Metotlar\obj\Debug\20170812-2Win_Metotlar.csproj.GenerateResource.Cache
+C:\Users\Echo\OneDrive\Hakan Csharp\20170812-2Win_Metotlar\20170812-2Win_Metotlar\bin\Debug\20170812-2Win_Metotlar.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170812-2Win_Metotlar\20170812-2Win_Metotlar\bin\Debug\20170812-2Win_Metotlar.pdb
+C:\Users\Echo\OneDrive\Hakan Csharp\20170812-2Win_Metotlar\20170812-2Win_Metotlar\obj\Debug\20170812-2Win_Metotlar.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170812-2Win_Metotlar\20170812-2Win_Metotlar\obj\Debug\20170812-2Win_Metotlar.pdb
